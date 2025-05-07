@@ -20,7 +20,7 @@
 
 Clone the repository (or copy the code to a .cpp file)
 
-git clone https://github.com/Dracula699/SquareRootFunction
+git clone https://github.com/Dracula699/SquareRootFunction.git
 cd SquareRootFunction
 
 Compile the program:
